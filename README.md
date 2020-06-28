@@ -9,5 +9,6 @@ This project was created following the instructions of the assignments for North
   <img src="https://github.com/h0rban/Pacman/blob/master/demo.gif" alt="Game Demo" height="400"/>
 </p>
 
-## Partner
-[Rebecca](https://github.com/rswernofsky)
+## Partners
+- [Rebecca](https://github.com/rswernofsky)
+- [David](https://github.com/davidyei)
